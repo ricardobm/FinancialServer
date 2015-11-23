@@ -6,7 +6,7 @@
  * Time: 20:35
  */
 
-class Bank {
+class Bank extends BaseObject{
 
     private $name;
     private $description;

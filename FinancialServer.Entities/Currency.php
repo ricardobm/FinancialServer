@@ -6,7 +6,7 @@
  * Time: 20:35
  */
 
-class Currency {
+class Currency extends BaseObject{
 
     private $name;
     private $country;

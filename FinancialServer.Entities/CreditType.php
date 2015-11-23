@@ -6,7 +6,7 @@
  * Time: 20:35
  */
 
-class CreditType {
+class CreditType extends BaseObject{
 
     private $name;
     private $description;

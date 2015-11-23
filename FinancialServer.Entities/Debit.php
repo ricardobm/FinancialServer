@@ -6,7 +6,7 @@
  * Time: 20:35
  */
 
-class Debit {
+class Debit extends BaseObject{
 
     private $name;
     private $location;
